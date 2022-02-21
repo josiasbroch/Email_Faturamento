@@ -1,2 +1,2 @@
-# Email_Faturamento
- Programa que envia e-mail automatico com o faturamento da empresa
+# Email dados da Empresa
+Programa que envia e-mail automatico a quem deseja com o faturamento, quantidade vendida e o ticket médio da empresa.
